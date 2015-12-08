@@ -1,0 +1,9 @@
+Django==1.8.6
+django-braces==1.8.1
+django-crispy-forms-ng==2.0.0
+gunicorn==19.4.1
+mps-youtube==0.2.5
+pafy==0.4.2
+six==1.10.0
+wheel==0.26.0
+youtube-dl==2015.11.15
